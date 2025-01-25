@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Derwin Anto A</h1>
 <h3 align="center">A passionate designer and developer</h3>
 
+- 🔭 I’m currently working on **E-Commerce Website**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Full Stack Developement**
+
+- 🤝 I’m looking for help with **Backend Devlopment**
+
+- 💬 Ask me about **Figma**
+
+- 📫 How to reach me **derwinanto100@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/derwin_anto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derwin_anto" height="30" width="40" /></a>
